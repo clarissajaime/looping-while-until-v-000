@@ -4,7 +4,7 @@ def using_until
 
     until levitation_force == 11
       levitation_force += 1
-      puts "#{levitation_force}"
+      puts "Wingardium Leviosa"
     end
 
 end
