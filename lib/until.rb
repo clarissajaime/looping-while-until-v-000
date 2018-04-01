@@ -4,7 +4,7 @@ def using_until
 
     until levitation_force == 11
       levitation_force += 1
-      # puts "You have now said the command #{levitation_force} times"
+      puts "#{levitation_force}"
     end
 
 end
